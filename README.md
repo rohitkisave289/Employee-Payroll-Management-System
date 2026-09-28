@@ -62,6 +62,11 @@ This project manages employee information, departments, attendance, leaves, and 
 - Attendance report
 - Leave report
 - Complete payroll report
+## 📸 Project Screenshots
+
+### Database Tables
+
+![Database Tables](database-tables.png)
 
 ## How to Run
 
