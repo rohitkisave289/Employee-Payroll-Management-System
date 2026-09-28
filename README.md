@@ -68,6 +68,15 @@ This project manages employee information, departments, attendance, leaves, and 
 
 ![Database Tables](database-tables.png)
 
+### Employee & Department JOIN
+
+![Employee Department JOIN](employee-department-join.png)
+
+### Payroll Report
+
+![Payroll Report](payroll-report.png)
+
+
 ## How to Run
 
 1. Open MySQL Workbench.
